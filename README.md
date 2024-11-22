@@ -1,4 +1,4 @@
-<h1>SSH File Transfer Home Lab</h1>
+<h1>SSH Apache Server File Transfer Home Lab</h1>
 
 <h2>Description:</h2>
 
