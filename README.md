@@ -91,7 +91,7 @@ I edited the index file, producing this absolute Mona Lisa here.
 <br/>
 <p align="center">  
 At this point, I was trying to transfer a file from the server to my Windows client. Connecting <br/>
-via SFTP to my VM. Using the 'get' command, I coppied -
+via SFTP to my VM. Using the 'get' command, I copied -
 
 <br/>
 <img src="https://i.imgur.com/6OdrYjt.png" style="height: auto; width: 600px;"/>
